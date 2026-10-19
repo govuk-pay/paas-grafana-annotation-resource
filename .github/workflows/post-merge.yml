@@ -19,4 +19,4 @@ jobs:
       - tests
     permissions:
       contents: write
-    uses: govuk-pay/pay-ci/.github/workflows/_create-alpha-release-tag.yml@c1bed255fa76164f86f2b0f0f20df26ea58ab1c6
+    uses: govuk-pay/pay-ci/.github/workflows/_create-alpha-release-tag.yml@67c10bdec6dad03624cee4ab798578e1ea429b97
